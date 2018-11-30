@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "print.h"
+#include <print.h>
 
 void main(void)
 {
@@ -8,5 +8,5 @@ void main(void)
 
 void print()
 {
-  printf("Hello World!");
+  printf("Hello");
 }
